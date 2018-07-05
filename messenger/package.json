@@ -1,0 +1,16 @@
+{
+  "name": "denbagusbot",
+  "version": "1.0.0",
+  "description": "denbagusbot for facebook messanger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rizal Ibnu <hello@rizalibnu.com> (http://rizalibnu.com)",
+  "license": "ISC",
+  "dependencies": {
+    "bootbot": "^1.0.15",
+    "config": "^1.30.0",
+    "node-fetch": "^2.1.2"
+  }
+}
